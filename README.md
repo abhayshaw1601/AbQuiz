@@ -53,7 +53,8 @@ The **AbQuiz** smart contract is live on **Celo Sepolia Testnet**:
 
 🔗 **Contract Address:** [`0xdC6565D37E1A1f57308123dCE77f657Ea8DBB447`](https://celo-sepolia.blockscout.com/address/0xdC6565D37E1A1f57308123dCE77f657Ea8DBB447)
 
-![Uploading image.png…]()
+<img width="1649" height="749" alt="image" src="https://github.com/user-attachments/assets/3ec57fec-223b-4d2c-b843-956461e07356" />
+
 
 
 You can explore it on **Blockscout** to view transactions, events, and contract state.
